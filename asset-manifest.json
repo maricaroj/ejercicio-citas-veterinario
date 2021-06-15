@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ejercicio-citas-veterinario/static/css/main.2cb17e5f.chunk.css",
+    "main.js": "/ejercicio-citas-veterinario/static/js/main.d10ff58f.chunk.js",
+    "main.js.map": "/ejercicio-citas-veterinario/static/js/main.d10ff58f.chunk.js.map",
+    "runtime-main.js": "/ejercicio-citas-veterinario/static/js/runtime-main.e0d8bbba.js",
+    "runtime-main.js.map": "/ejercicio-citas-veterinario/static/js/runtime-main.e0d8bbba.js.map",
+    "static/js/2.92438c7c.chunk.js": "/ejercicio-citas-veterinario/static/js/2.92438c7c.chunk.js",
+    "static/js/2.92438c7c.chunk.js.map": "/ejercicio-citas-veterinario/static/js/2.92438c7c.chunk.js.map",
+    "static/js/3.2cf4a0d1.chunk.js": "/ejercicio-citas-veterinario/static/js/3.2cf4a0d1.chunk.js",
+    "static/js/3.2cf4a0d1.chunk.js.map": "/ejercicio-citas-veterinario/static/js/3.2cf4a0d1.chunk.js.map",
+    "index.html": "/ejercicio-citas-veterinario/index.html",
+    "static/css/main.2cb17e5f.chunk.css.map": "/ejercicio-citas-veterinario/static/css/main.2cb17e5f.chunk.css.map",
+    "static/js/2.92438c7c.chunk.js.LICENSE.txt": "/ejercicio-citas-veterinario/static/js/2.92438c7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d8bbba.js",
+    "static/js/2.92438c7c.chunk.js",
+    "static/css/main.2cb17e5f.chunk.css",
+    "static/js/main.d10ff58f.chunk.js"
+  ]
+}
